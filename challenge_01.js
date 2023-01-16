@@ -12,4 +12,4 @@ let zahl1 = prompt("Bitte die erste Zahl eingeben: ");
 let zahl2 = prompt("Bitte die Zweite Zahl eingeben:");
 let summe = Number(zahl1) + Number(zahl2);
 
-console.log(summe);
+console.log("Die Summe der Zahlen ist: " + (summe));
